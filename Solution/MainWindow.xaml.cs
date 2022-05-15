@@ -23,40 +23,6 @@ namespace Solution
         {
             InitializeComponent();
         }
-
-        private int selectedIndex = 0;
-        //private void TabEvents() {
-
-        //    this.MainTabControl.GotFocus += (s, e) => {
-        //        var b1 = false;
-        //    };
-        //    this.tabGrid.PreviewKeyDown += (s, e) => {
-        //        var b1 = false;
-        //    };
-        //    this.MainTabControl.KeyDown += (s, e) => {
-        //        var b1 = false;
-        //    };
-        //    this.MainTabControl.PreviewKeyDown += (s, e) =>{
-        //        if (e.SystemKey == Key.RightCtrl && e.Key == Key.PageDown)
-        //        {
-        //            //var b = false;
-        //            //var r = (TabControl)s;
-        //            //var sl = this.MainTabControl.SelectedItem as TabControl;
-        //            selectedIndex++;
-        //            this.MainTabControl.SelectedIndex = selectedIndex;
-        //        }
-        //    };
-
-        //    //this.MainTabControl.PreviewKeyUp += (s, e) => {
-        //    //    if (e.SystemKey == Key.RightCtrl && e.Key == Key.PageDown)
-        //    //    {
-        //    //        //var b = false;
-        //    //        //var r = (TabControl)s;
-        //    //        //var sl = this.MainTabControl.SelectedItem as TabControl;
-        //    //        selectedIndex--;
-        //    //        this.MainTabControl.SelectedIndex = selectedIndex;
-        //    //    }
-        //    //};
-        //}
+ 
     }
 }
